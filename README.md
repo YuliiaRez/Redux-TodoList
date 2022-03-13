@@ -1,3 +1,6 @@
+Implement Todo App with global Redux state. Take the components implemented in the past remote sensing as a basis.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
